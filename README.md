@@ -19,6 +19,8 @@ $ rm -rf CMBF
 
 $ git clone https://www.github.com/Ditz-Sanz/CMBF
 
+$ git pull
+
 $ cd CMBF
 
 $ python CMBF.py
