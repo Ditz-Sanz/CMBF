@@ -55,16 +55,16 @@ else:
 ### HEADERS ###
 
 def banner():    print("""\033[1;37m
-██████╗███╗   ███╗██████╗ ███████╗
-     ██╔════╝████╗ ████║██╔══██╗██╔════╝
-     ██║     ██╔████╔██║██████╔╝█████╗
-     ██║     ██║╚██╔╝██║██╔══██╗██╔══╝
-     ╚██████╗██║ ╚═╝ ██║██████╔╝██║
-      ╚═════╝╚═╝     ╚═╝╚═════╝ ╚═╝
+    \x1b[0;31m   ██████╗███╗   ███╗██████╗ ███████╗
+  \x1b[0;31m   ██╔════╝████╗ ████║██╔══██╗██╔════╝
+ \x1b[0;31m    ██║     ██╔████╔██║██████╔╝█████╗
+  \x1b[0;37m   ██║     ██║╚██╔╝██║██╔══██╗██╔══╝
+   \x1b[0;37m  ╚██████╗██║ ╚═╝ ██║██████╔╝██║
+    \x1b[0;37m  ╚═════╝╚═╝     ╚═╝╚═════╝ ╚═╝
         COLLAY |  MULTI |  BRUTE |  FORCE
-\x1b[0;31m[*] Author     : Ditz Sanz yg ganteng :v.
-\x1b[0;31m[*] Github     : https://github.com/Ditz-Sanz
-\x1b[0;31m[*] Facebook   : dit oni chan
+        [*] Author     : Ditz Sanz yg ganteng :v.
+        [*] Github     : https://github.com/Ditz-Sanz
+        [*] Facebook   : dit oni chan
 -------------------------------------------------------------""")
 
 ua="NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+"
