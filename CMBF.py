@@ -61,7 +61,7 @@ def banner():    print("""\033[1;37m
   \x1b[0;37m   ██║     ██║╚██╔╝██║██╔══██╗██╔══╝
    \x1b[0;37m  ╚██████╗██║ ╚═╝ ██║██████╔╝██║
     \x1b[0;37m  ╚═════╝╚═╝     ╚═╝╚═════╝ ╚═╝
-        COLLAY |  MULTI |  BRUTE |  FORCE
+        CONTOL |  MULTI |  BRUTE |  FORCE
         [*] Author     : Ditz Sanz yg ganteng :v.
         [*] Github     : https://github.com/Ditz-Sanz
         [*] Facebook   : dit oni chan
